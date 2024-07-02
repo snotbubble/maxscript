@@ -7,7 +7,6 @@ pile | 2011 | selectionset manager, misc scene functions, scene-state capture/re
 troller | 2009 | key/controller editing tool, bypass the trackview
 keybaker2 | 2009 | bake transform of one object using another
 lampr | 2008 | bake nulls on deforming surface
-vertextidy | 2009 | remove verts with 2 visible edges
 zproject | 2009 | project one object down onto another
 planter | 2009 | project selection down onto an object
 lape | 2008 | pin params of an object, Houdini-style
